@@ -1,0 +1,33 @@
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.csproj.AssemblyReference.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.AssemblyInfoInputs.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.AssemblyInfo.cs
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.csproj.CoreCompileInputs.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.MvcApplicationPartsAssemblyInfo.cs
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.MvcApplicationPartsAssemblyInfo.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/appsettings.Development.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/appsettings.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.staticwebassets.endpoints.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.deps.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.runtimeconfig.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.pdb
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/scopedcss/bundle/Mini Challenge #11 - API Beginnings LotV.styles.css
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/staticwebassets.build.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/staticwebassets.development.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/swae.build.ex.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Cha.A29D4D13.Up2Date
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/refint/Mini Challenge #11 - API Beginnings LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.pdb
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.genruntimeconfig.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/ref/Mini Challenge #11 - API Beginnings LotV.dll

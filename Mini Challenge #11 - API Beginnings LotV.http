@@ -1,0 +1,6 @@
+@Mini_Challenge__11___API_Beginnings_LotV_HostAddress = http://localhost:5170
+
+GET {{Mini_Challenge__11___API_Beginnings_LotV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
