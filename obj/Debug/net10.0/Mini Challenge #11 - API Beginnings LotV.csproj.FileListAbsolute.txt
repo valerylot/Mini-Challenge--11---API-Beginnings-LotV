@@ -31,3 +31,4 @@
 /Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.pdb
 /Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.genruntimeconfig.cache
 /Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/ref/Mini Challenge #11 - API Beginnings LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #11 - API Beginnings LotV/obj/Debug/net10.0/Mini Challenge #11 - API Beginnings LotV.sourcelink.json

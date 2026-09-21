@@ -8,16 +8,16 @@ namespace Mini_Challenge__11___API_Beginnings_LotV.Controllers
     {
         [HttpGet] //api/questions
         [Route("whatisyourname/{name}/wakeuptime/{time}")]
-        public object UserInfo(string name, string time)
+        public ActionResult UserInfo(string name, string time)
         {
             bool success = int.TryParse(time, out int timeWakeUp);
             if (success)
             {
-                return $"{name} woke up at {timeWakeUp}";
+                return Ok($"{name} woke up at {timeWakeUp}");
             }
             else
             {
-                return "Please enter a valid number.";
+                return NotFound("Please enter a valid number.");
             }
         }
     }

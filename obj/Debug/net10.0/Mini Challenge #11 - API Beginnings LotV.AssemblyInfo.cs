@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge #11 - API Beginnings LotV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+306aaf3ed2c5d22d5adf80341b4089a10904c530")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge #11 - API Beginnings LotV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge #11 - API Beginnings LotV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

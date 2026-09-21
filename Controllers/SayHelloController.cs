@@ -7,17 +7,11 @@ namespace Mini_Challenge__11___API_Beginnings_LotV.Controllers
     public class SayHelloController : ControllerBase
     {
 
-        [HttpGet] //api/sayhello
-        public string SayHello()
+        [HttpGet("{name}")] //api/sayhello
+        public ActionResult SayHello(string name)
         {
-            return "Hello";
+            return Ok($"Hello {name}");
         }
         
-        [HttpGet]
-        [Route("{name}")]
-        public string Username(string name)
-        {
-            return $"Hello {name}";
-        }
     }
 }
